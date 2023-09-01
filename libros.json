@@ -1,0 +1,24 @@
+{
+  "libros": {
+    "001": {
+      "nombre": "Cien años de soledad",
+      "fecha_publicacion": "1967-05-30"
+    },
+    "002": {
+      "nombre": "1984",
+      "fecha_publicacion": "1949-06-08"
+    },
+    "003": {
+      "nombre": "Matar a un ruiseñor",
+      "fecha_publicacion": "1960-07-11"
+    },
+    "004": {
+      "nombre": "El gran Gatsby",
+      "fecha_publicacion": "1925-04-10"
+    },
+    "005": {
+      "nombre": "Don Quijote de la Mancha",
+      "fecha_publicacion": "1605-01-16"
+    }
+  }
+}
